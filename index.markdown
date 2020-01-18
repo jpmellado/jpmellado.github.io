@@ -8,20 +8,4 @@ layout: default
 <!-- ![Image](assets/Logo.jpg "Turbulent Convection") -->
 ![Image](assets/Photo.jpg)
 
-<!-- Full Professor  
-Universitat Politècnica de Catalunya  
-Department of Physics, Division of Aerospace Engineering
-
-School of Telecommunications and Aerospace Engineering  
-Campus del Baix Llobregat  
-Office 102, Building C3
-
-School of Industrial, Aerospace and Audiovisual Engineering  
-Campus de Terrassa  
-Office 169, Building GAIA -->
-
-Turbulence
-
-Aerospace
-
-Weather & Climate
+I am a professor at the Universitat Politècnica de Catalunya working on various aspects of turbulence, aerospace engineering and weather and climate.
