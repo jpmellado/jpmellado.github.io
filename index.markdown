@@ -6,8 +6,9 @@ layout: default
 ---
 
 <!-- ![Image](assets/Logo.jpg "Turbulent Convection") -->
+![Image](assets/Photo.jpg)
 
-Full Professor  
+<!-- Full Professor  
 Universitat Politècnica de Catalunya  
 Department of Physics, Division of Aerospace Engineering
 
@@ -17,4 +18,10 @@ Office 102, Building C3
 
 School of Industrial, Aerospace and Audiovisual Engineering  
 Campus de Terrassa  
-Office 169, Building GAIA
+Office 169, Building GAIA -->
+
+Turbulence
+
+Aerospace
+
+Weather & Climate
