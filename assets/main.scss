@@ -23,6 +23,8 @@
   height: 100%;
 }
 
+// I did not get this working
+
 img[src~="thumbnail"] {
    width:150px;
    height:150px;
@@ -32,9 +34,3 @@ img[src~="thumbnail"] {
 img[src~="left"] {
    float: left;
 }
-
-/* img {
-  width: 150px;
-  padding: 2px;
-  float: left
-} */

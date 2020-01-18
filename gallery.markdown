@@ -23,12 +23,20 @@ This video shows a vertical cross-section of the water vapor field from a direct
 
 ### Air-Water Interface
 
-![Image](assets/Plate01.jpg# thumbnail left "Turbulent Convection")
+<!-- ![Image](assets/Plate01.jpg# thumbnail left "Turbulent Convection")
 ![Image](assets/Plate02.jpg# thumbnail left  "Turbulent Convection")
 ![Image](assets/Plate03.jpg# thumbnail left  "Turbulent Convection")
 ![Image](assets/Plate04.jpg# thumbnail left  "Turbulent Convection")
 ![Image](assets/Plate05.jpg# thumbnail left  "Turbulent Convection")
 ![Image](assets/Plate06.jpg# thumbnail left  "Turbulent Convection")
-![Image](assets/PlateCover.jpg# thumbnail "Turbulent Convection")
+![Image](assets/PlateCover.jpg# thumbnail "Turbulent Convection") -->
+
+<img src="assets/Plate01.jpg" alt="Image" title="Turbulence Convection" height="150px" style="padding:2px;float:left;">
+<img src="assets/Plate02.jpg" alt="Image" title="Turbulence Convection" height="150px" style="padding:2px;float:left;">
+<img src="assets/Plate03.jpg" alt="Image" title="Turbulence Convection" height="150px" style="padding:2px;float:left;">
+<img src="assets/Plate04.jpg" alt="Image" title="Turbulence Convection" height="150px" style="padding:2px;float:left;">
+<img src="assets/Plate05.jpg" alt="Image" title="Turbulence Convection" height="150px" style="padding:2px;float:left;">
+<img src="assets/Plate06.jpg" alt="Image" title="Turbulence Convection" height="150px" style="padding:2px;float:left;">
+<img src="assets/PlateCover.jpg" alt="Image" title="Turbulence Convection" height="150px" style="padding:2px;">
 
 The fluid motion at the interface between the oceans and the atmosphere is crucial for their interchange of mass (constituents), momentum and energy. This series of images show the temperature field at the water-air interface, looking from above. The turbulent motion inside the water is caused by surface cooling. The center of the cells, in dark, corresponds to relatively warm regions ascending towards the surface (moving out of the screen). The brighter contours of the cells, only millimeters wide, indicate water a few degrees colder, plummeting as thermal sheets. The observed cellular pattern is typical in buoyancy-driven flows -- it is the signature of ordered motions amid random fluctuations. You can find more information in Mellado, "Direct numerical simulation of free convection over a heated plate", J. Fluid Mech., 712, 418-450 (2012).
