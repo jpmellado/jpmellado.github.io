@@ -1,0 +1,24 @@
+{% for image in include.images %}
+  {% if forloop.last == true %}
+  <img
+      src="assets/{{ image }}"
+      alt="Image"
+      title="{{ include.title }}"
+      height="150px"
+      style="padding:2px">
+  {% else %}
+  <img
+      src="assets/{{ image }}"
+      alt="Image"
+      title="{{ include.title }}"
+      height="150px"
+      style="padding:2px;float:left;">
+  {% endif %}
+{% endfor %}
+
+<!-- <img
+  src="assets/{{ include.image }}"
+  alt="Image"
+  title="{{ include.title }}"
+  height="150px"
+  style="padding:2px;float:left;"> -->
