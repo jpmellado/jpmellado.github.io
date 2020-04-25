@@ -5,7 +5,7 @@ title: Teaching
 
 Current courses:
 * *Aerospace Technology*  
-Flight mechanics, aircraft propulsion and space systems for undergraduate students at U Politècnica de Catalunya.
+Introduction to flight mechanics, aircraft propulsion and space systems for undergraduate students at U Politècnica de Catalunya.
 
 * *Turbulence*  
 Fundamentals, analysis and modeling of turbulent flows for undergraduate students at U Politècnica de Catalunya.
