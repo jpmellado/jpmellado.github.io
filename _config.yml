@@ -28,11 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jpmellado
 header_pages:
-  - biography.markdown
-  - research.markdown
-  - teaching.markdown
-  - gallery.markdown
-  - contact.markdown
+  - biography.md
+  - research.md
+  - teaching.md
+  - gallery.md
+  - contact.md
 
 # Build settings
 theme: minima
