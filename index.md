@@ -10,5 +10,6 @@ layout: default
 
 I am a professor at the Universitat Politècnica de Catalunya working on various aspects of turbulence, aerospace engineering and weather and climate.
 
-Projects:
-* [Turbulencia](https://turbulencia.github.io/)
+[Clouds](https://turbulencia.github.io/clouds) |
+[Planetary Boundary Layers](https://turbulencia.github.io/pbl) |
+[Atmospheric Turbulence](https://turbulencia.github.io/atur)
