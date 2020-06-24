@@ -11,6 +11,7 @@ Research interests are:
 * Computational fluid dynamics, numerical methods, high-performance computing.
 
 Current funded projects:  
+* Spanish Ministry of Science, Innovation and University: Turbulence and large coherent structures in the atmospheric boundary layer: Fundamental aspects for parametrizations of cloud formation and for wind-energy applications.
 * NIC project HHH07 at the Jülich Supercomputing Centre: Direct Numerical Simulation of Turbulent Mixing in the Planetary Boundary Layer.
 
 Previous funded projects:  
