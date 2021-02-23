@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 ---
 
-### Turbulence Organization in the Planetary Boundary Layer
+### Near-Surface Streaks
 
 {% include youtubePlayer.html id="bxuR7s86HS4" %}
 
@@ -11,7 +11,7 @@ This video shows a horizontal cross-section of the temperature field from a dire
 
 <br>
 
-### Wind in the Planetary Boundary Layer
+### Mixed Convection
 
 {% include youtubePlayer.html id="AKh4JWjibjQ" %}
 
