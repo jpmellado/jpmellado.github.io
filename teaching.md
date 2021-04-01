@@ -4,6 +4,9 @@ title: Teaching
 ---
 
 Current courses:
+* *Meteorology*  
+Introduction to meteorology for undergraduate students of aerospace engineering at U Politècnica de Catalunya.
+
 * *Aerospace Technology*  
 Introduction to flight mechanics, aircraft propulsion and space systems for undergraduate students at U Politècnica de Catalunya.
 
