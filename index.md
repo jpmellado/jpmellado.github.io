@@ -8,7 +8,7 @@ layout: default
 <!-- ![Image](assets/Logo.jpg "Turbulent Convection") -->
 ![Image](assets/Photo.jpg)
 
-I am a professor at the Universitat Politècnica de Catalunya working on various aspects of turbulence, aerospace engineering and weather and climate.
+I am a professor at the Universitat Politècnica de Catalunya working on various aspects of turbulence, atmospheric sciences, and weather and climate.
 
 [Clouds](https://turbulencia.github.io/clouds) |
 [Planetary Boundary Layers](https://turbulencia.github.io/pbl) |
