@@ -35,6 +35,13 @@ This video shows the liquid water in two vertical planes (the cloud), and the ve
 
 <br>
 
+<!-- ![Image](assets/StblLnEnstrophy.jpg) -->
+<img src="assets/StblLnEnstrophy.jpg" title="2D Stratocumulus-Topped Boundary Layer">
+
+This image corresponds to the logarithm of the enstrophy of a two-dimensional version of the same problem as before but with 4 times the resolution in the horizontal and vertical directions, which means 20480x5120 grid points. The physics of 2D and 3D turbulence are different, but this study provides a first estimate of some flow properties. You can find more information in Mellado et al., "DNS and LES for simulating stratocumulus: Better together", J. Adv. Model. Earth Syst., 10, 1421-1438 (2018).
+
+<br>
+
 ### Air-Water Interface
 
 {% assign images = "Plate01.jpg,Plate02.jpg,Plate03.jpg,Plate04.jpg,Plate05.jpg,Plate06.jpg,PlateCover.jpg" | split:',' %}
