@@ -4,11 +4,15 @@ title: Teaching
 ---
 
 Current courses:
-* *Meteorological Modeling*  
+* *Introduction to Atmospheric Physics*  
+An introduction to STEM graduate students without a background in atmospheric science to
+basic concepts of atmospheric thermodynamics, fluid mechanics, and cloud microphysics.
+
+* *Turbulence and Boundary Layers*  
 Mathematical models and conservation laws in atmospheric sciences, turbulence theory and modeling, boundary-layer schemes, for graduate students.
 
 * *Thermodynamics*  
-Introduction to to fundamental concepts of thermodynamics and applications to atmospheric systems, for undergraduates students.
+Fundamental concepts of thermodynamics and applications to atmospheric systems, for undergraduates students.
 
 Previous courses:
 * *Meteorology*  

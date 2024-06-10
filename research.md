@@ -10,7 +10,8 @@ Research interests are:
 * Computational fluid dynamics, numerical methods, high-performance computing.
 
 Currently funded projects:
-* BMBF, [WarmWorld](https://warmworld.de/): Development of Turbulence Parametrizations in the ICON model .
+* DFG, [TRR 181](https://www.trr-energytransfers.de/): Gravity Wave Genesis, Break-up and Dissipation.
+* BMBF, [WarmWorld](https://warmworld.de/): Development of Turbulence Parametrizations in the ICON model.
 * Horizon 2020, [nextGEMS](https://nextgems-h2020.eu/) (Next Generation Earth Modelling Systems): Validation and development of boundary layer schemes.
 * Spanish Ministry of Science, Innovation and University: Turbulence and large coherent structures in the atmospheric boundary layer: Fundamental aspects for parametrizations of cloud formation and for wind-energy applications.
 * GCS Large-Scale Project CoPBL at the Leibniz-Rechenzentrum: Convection in the Planetary Boundary Layer.
